@@ -1,0 +1,52 @@
+#img
+{
+    float: right;
+    padding-right: 10px;
+    
+}
+div#name
+{
+    background-color: rgb(108, 140, 236);
+    padding-top: 15px;
+    color: white;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  
+}
+#prof
+{
+    margin-top: 2px;
+    padding-top: 2px;
+    margin-bottom: 25px;
+}
+
+#maind
+{
+    background-color: rgb(202, 184, 184);
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+body{
+    background-color: #0c0d0d;
+}
+
+
+#hcin
+{
+    margin-left: 145px;
+}
+.parent
+{
+    display: flex;
+    flex-shrink: inherit;
+}
+.right
+{
+    margin-left: 300px;
+}
+.left
+{
+    margin-left: 10px;
+}
